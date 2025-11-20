@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "regex": "cpp",
+        "shared_mutex": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "queue": "cpp",
+        "mutex": "cpp",
+        "atomic": "cpp",
+        "unordered_map": "cpp",
+        "list": "cpp"
+    }
+}
